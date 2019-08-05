@@ -47,7 +47,7 @@ const sequelize = new Sequelize({
          type: Sequelize.INTEGER,
        },
  
-       User_Bank_Name: {
+       User_Bank_Name: { 
        type: Sequelize.STRING,
        },
      
